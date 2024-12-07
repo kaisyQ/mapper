@@ -1,0 +1,2 @@
+phpunit:
+	./scripts/phpunit.sh
