@@ -16,7 +16,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Jason\\Mapper\\Tests": "tests/"
+            "Jason\\Mapper\\Tests\\": "tests/"
         }
     },
     "authors": [
